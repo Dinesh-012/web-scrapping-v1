@@ -1,0 +1,6 @@
+playwright
+pandas
+streamlit
+pytrends
+beautifulsoup4
+lxml
